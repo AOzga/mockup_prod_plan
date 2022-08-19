@@ -14,7 +14,7 @@
 				"fri":{"planned":48,"executed":0,"capacity":48,"active":true}
 			},
 			"planned":240,"executed":182,"capacity":240,"active":true,"now":false,
-			"prod_orders" : ["PRO000123","PRO000124","PRO000125"],
+			"prod_orders" : ["PRO000123","PRO000124","PRO000125"]
 		},
 		"34":
 		{
@@ -28,7 +28,7 @@
 				"fri":{"planned":32,"executed":32,"capacity":48,"active":true}
 			},
 			"planned":96,"executed":120,"capacity":144,"active":true,"now":true,
-			"prod_orders" : ["PRO000126","PRO000127"],
+			"prod_orders" : ["PRO000126","PRO000127"]
 		},
 		"35":
 		{
@@ -42,7 +42,7 @@
 				"fri":{"planned":48,"executed":null,"capacity":48,"active":true}
 			},
 			"planned":160,"executed":182,"capacity":240,"active":true,"now":false,
-			"prod_orders" : ["PRO000128","PRO000129","PRO000130"],
+			"prod_orders" : ["PRO000128","PRO000129","PRO000130"]
 		},
 		"36":
 		{
@@ -56,7 +56,7 @@
 				"fri":{"planned":48,"executed":12,"capacity":48,"active":true}
 			},
 			"planned":160,"executed":182,"capacity":192,"active":true,"now":false,
-			"prod_orders" : ["PRO000131","PRO000132","PRO000133"],
+			"prod_orders" : ["PRO000131","PRO000132","PRO000133"]
 		},
 		"37":
 		{
@@ -70,7 +70,7 @@
 				"fri":{"planned":null,"executed":null,"capacity":null,"active":false}
 			},
 			"planned":160,"executed":182,"capacity":240,"active":true,"now":false,
-			"prod_orders" : ["PRO000134","PRO000135","PRO000136"],
+			"prod_orders" : ["PRO000134","PRO000135","PRO000136"]
 		}
 	}
 },
