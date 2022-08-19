@@ -1,0 +1,78 @@
+{"info":{"sysname":"Acacia v0.1dev","apiver":"v1"},
+"data":{
+	"weeks":
+	{
+		"33":
+		{
+			"id":"9f66f44a-861a-4388-87d4-6438f6ed7919",
+			"days":
+			{
+				"mon":{"planned":48,"executed":46,"capacity":48,"active":true},
+				"tue":{"planned":48,"executed":43,"capacity":48,"active":true},
+				"wed":{"planned":32,"executed":38,"capacity":48,"active":true},
+				"thu":{"planned":64,"executed":55,"capacity":48,"active":true},
+				"fri":{"planned":48,"executed":0,"capacity":48,"active":true}
+			},
+			"planned":240,"executed":182,"capacity":240,"active":true,"now":false,
+			"prod_orders" : ["PRO000123","PRO000124","PRO000125"],
+		},
+		"34":
+		{
+			"id":"4d6dc321-00cb-4895-a353-2113563c11fa",
+			"days":
+			{
+				"mon":{"planned":32,"executed":46,"capacity":48,"active":true},
+				"tue":{"planned":32,"executed":42,"capacity":48,"active":true},
+				"wed":{"planned":null,"executed":null,"capacity":null,"active":false},
+				"thu":{"planned":null,"executed":null,"capacity":null,"active":false},
+				"fri":{"planned":32,"executed":32,"capacity":48,"active":true}
+			},
+			"planned":96,"executed":120,"capacity":144,"active":true,"now":true,
+			"prod_orders" : ["PRO000126","PRO000127"],
+		},
+		"35":
+		{
+			"id":"191630b6-03bb-48e2-9143-0327767b0f69",
+			"days":
+			{
+				"mon":{"planned":48,"executed":46,"capacity":48,"active":true},
+				"tue":{"planned":48,"executed":54,"capacity":48,"active":true},
+				"wed":{"planned":32,"executed":38,"capacity":48,"active":true},
+				"thu":{"planned":64,"executed":52,"capacity":48,"active":true},
+				"fri":{"planned":48,"executed":null,"capacity":48,"active":true}
+			},
+			"planned":160,"executed":182,"capacity":240,"active":true,"now":false,
+			"prod_orders" : ["PRO000128","PRO000129","PRO000130"],
+		},
+		"36":
+		{
+			"id":"2f3bb7ef-19e4-4dfe-9c40-336d134b8186",
+			"days":
+			{
+				"mon":{"planned":48,"executed":46,"capacity":48,"active":true},
+				"tue":{"planned":null,"executed":null,"capacity":null,"active":false},
+				"wed":{"planned":32,"executed":38,"capacity":48,"active":true},
+				"thu":{"planned":32,"executed":55,"capacity":48,"active":true},
+				"fri":{"planned":48,"executed":12,"capacity":48,"active":true}
+			},
+			"planned":160,"executed":182,"capacity":192,"active":true,"now":false,
+			"prod_orders" : ["PRO000131","PRO000132","PRO000133"],
+		},
+		"37":
+		{
+			"id":"1aec2dbc-00f7-4232-aef4-f9656b093a77",
+			"days":
+			{
+				"mon":{"planned":48,"executed":46,"capacity":48,"active":true},
+				"tue":{"planned":32,"executed":43,"capacity":48,"active":true},
+				"wed":{"planned":32,"executed":38,"capacity":48,"active":true},
+				"thu":{"planned":32,"executed":55,"capacity":48,"active":true},
+				"fri":{"planned":null,"executed":null,"capacity":null,"active":false}
+			},
+			"planned":160,"executed":182,"capacity":240,"active":true,"now":false,
+			"prod_orders" : ["PRO000134","PRO000135","PRO000136"],
+		}
+	}
+},
+"meta":{"timezone":"UTC+00"}
+}
